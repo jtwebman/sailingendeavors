@@ -1,0 +1,40 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Github:
+    url: https://github.com/jtwebman
+    icon: github
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: Configurable Title
+
+# URL of the Home page image
+index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Disqus comments
+disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# set your own favicon
+favicon:
+
+# Social Accounts
+twitter_url:
+twitter_handle:
+facebook_url:
+instagram_url:
+gitlab_url:
+linkedin_url:
+mailto:
+
+# Avatar Image Email
+avatar: jt@sailingendeavors.com

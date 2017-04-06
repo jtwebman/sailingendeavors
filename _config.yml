@@ -4,7 +4,7 @@
 
 # Site
 title: Sailing Endeavors
-subtitle: Want to sail the world? Watch others doing it full time!
+subtitle: Want to sail the world? Watch and learn from others doing it full time!
 description: This site follows many people sailing the world.
 author: JT Turner
 language: en
@@ -78,8 +78,8 @@ index_cover: /images/sailingendeavours-site-cover.jpg
 
 # Social Accounts
 instagram_url: https://instagram.com/sailingendeavors
-twitter_url: https://twitter.com/sailingendeavors
-twitter_handle: sailingendeavors
+twitter_url: https://twitter.com/sailingendeavor
+twitter_handle: sailingendeavor
 facebook_url: https://facebook.com/sailingendeavors
 
 # Title on top left of menu. Leave empty to use main blog title
@@ -93,7 +93,7 @@ menu:
     url: https://instagram.com/sailingendeavors
     icon: instagram
   Twitter:
-    url: https://twitter.com/sailingendeavors
+    url: https://twitter.com/sailingendeavor
     icon: twitter
   Facebook:
     url: https://facebook.com/sailingendeavors
